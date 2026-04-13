@@ -129,18 +129,3 @@ npm run dev
 4. Paste into `firebase/config.js`
 5. Add `.env` variables
 
----
-
-## 👨‍💻 Author
-
-**Tisa Patel**  
-💼 Frontend Developer | React & Firebase Enthusiast  
-
-- GitHub: https://github.com/Tisapatel 
-- LinkedIn: https://www.linkedin.com/in/tisa-patel-384b80312  
-- Email: trpatel@gmail@gmail.com
-
----
-
-
-⭐ If you like this project, **star the repository**!
